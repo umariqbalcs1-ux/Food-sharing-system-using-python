@@ -25,3 +25,12 @@ This project was designed to practice the following Python concepts:
 2. Clone this repository:
    ```bash
    git clone <your-repository-url>
+   ```
+3. Navigate to the project folder.
+4. Run the application:
+   ```bash
+   python main.py
+   ```
+
+## Author
+Muhammad Umar (Student ID: 09)
